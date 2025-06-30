@@ -4,7 +4,7 @@
 A modern, animated 3D portfolio website built with cutting-edge web technologies to showcase development skills in a unique and engaging way. Featuring immersive visuals, smooth animations, and production-ready interactivity — all designed to leave a lasting impression.
 
 ## 🌍 Live Demo
-[haribabu-g.dev.in](https://haribabu-g.dev.in)
+[haribabu-g.dev.in](https://portfolio-git-main-haribabu-gs-projects.vercel.app/)
 ---
 
 ## 🔥 Features
@@ -89,7 +89,6 @@ The app will be available at LocalHost.
 ## Contributing 🤝
 Feel free to fork the repo, submit issues, or create pull requests if you'd like to contribute to the project!
 
----
 
 ## 🙏 Acknowledgments
 
@@ -98,13 +97,10 @@ Big thanks for open-sourcing such a creative and technically impressive starting
 
 Check out his GitHub work — it's fire 🔥
 
----
 
 ## 📌 Connect with Me
 
 If you’d like to collaborate, chat tech, or just say hello:
----
-## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-haribabu.g707@gmail.com-red?style=flat&logo=gmail)](mailto:haribabu.g707@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haribabu-g/)
