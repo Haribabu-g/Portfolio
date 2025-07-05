@@ -15,8 +15,12 @@ const Project = ({
     <>
       <div
         className="flex-wrap items-center justify-between py-10 space-y-14 sm:flex sm:space-y-0"
-        onMouseEnter={() => setPreview(image)}
-        onMouseLeave={() => setPreview(null)}
+       onMouseEnter={() => {
+  if (window.innerWidth >= 640) setPreview(image); // 640px is Tailwind's "sm" breakpoint
+}}
+onMouseLeave={() => {
+  if (window.innerWidth >= 640) setPreview(null);
+}}
       >
         <div>
           <p className="text-2xl">{title}</p>
