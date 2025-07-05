@@ -49,7 +49,7 @@ export const myProjects = [
         ],
         href: "https://job-portal-new-client-plum.vercel.app/",
         logo: "",
-        image: "/assets/projects/JopSphere2.png",
+        image: "/assets/projects/JobSphere-landing-page.png",
         tags: [
             {
                 id: 1,
@@ -131,7 +131,7 @@ export const myProjects = [
         ,
         href: "https://fresh-haven-landing.vercel.app/",
         logo: "",
-        image: "/assets/projects/fresh-haven2.png",
+        image: "/assets/projects/fresh-haven-landing-page.png",
         tags: [
             {
                 id: 1,

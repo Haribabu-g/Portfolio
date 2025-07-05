@@ -5,7 +5,7 @@ import About from "./sections/About";
 import Projects from "./sections/Projects";
 import Experiences from "./sections/Experiences";
 import Contact from "./sections/Contact";
-import { SmoothCursor } from "/src/components/ui/smooth-cursor";
+
 import { ScrollProgress } from "/src/components/magicui/scroll-progress";
 import Footer from "./sections/Footer";
 
@@ -25,11 +25,7 @@ useEffect(() => {
 
   return (
     <>
-      {showCursor && (
-        <div className="hidden sm:block">
-          <SmoothCursor />
-        </div>
-      )}
+     
 
       <div className="container mx-auto max-w-7xl">
         <Navbar />
